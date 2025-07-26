@@ -19,7 +19,7 @@ I’m a dedicated and curious technologist with a strong foundation in both **Co
 
 🌐 I'm particularly interested in:
 - 🛡️ Network & System Security
-- 🧠 AI / ML and their security implications
+- 🧠 AI / ML 
 - ⚙️ Automation with Python
 - 🔍 Digital Forensics & Ethical Hacking
 - 🌐 Web Development & Security Testing
@@ -35,8 +35,10 @@ I’m a dedicated and curious technologist with a strong foundation in both **Co
 ```bash
 Languages:   Python • JavaScript • C/C++ • Java • Bash
 Tools:       Git • Wireshark • Nmap • Metasploit • Burp Suite
-Frameworks:  Flask • Express.js • Node.js
+Frameworks:  Flask • Node.js  •  Tree.js
 Platforms:   Linux • Windows • VirtualBox • Docker
+Deployments Platforms:  Vercel • Render
+Deployments: Website  •  application 
 <h1 align="center">👋 Hello World, I'm Chun Meng</h1>
 <h3 align="center">🎓 Bachelor of Information Technology — Specializing in Computer Science & Cybersecurity</h3>
 
