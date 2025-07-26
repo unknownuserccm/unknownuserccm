@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello+World%2C+I'm;CHUN+MENG" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cybersecurity%20%26%20CS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
 
 <div align="center">
   
