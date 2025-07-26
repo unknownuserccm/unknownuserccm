@@ -32,7 +32,7 @@ const chunMeng = {
     
     currentFocus: [
         "🛡️ Advanced Penetration Testing",
-        "🤖 AI/ML Security Applications", 
+        "🤖 AI/ML", 
         "🔍 Digital Forensics & Incident Response",
         "⚡ Secure Software Development"
     ],
