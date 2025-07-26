@@ -186,9 +186,9 @@ expertise = {
 
 ### 💡 Profile Views & Visitors
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=0D1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=unknownuserccm&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/unknownuserccm?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/unknowuserccm?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Total Stars" />
 </p>
 
 ### ⚡ Recent Activity
