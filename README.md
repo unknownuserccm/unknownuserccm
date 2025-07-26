@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Meng Chun</h1>
+<h1 align="center">👋 Hello World, I'm Chun Meng</h1>
 <h3 align="center">🎓 Bachelor of Information Technology — Specializing in Computer Science & Cybersecurity</h3>
 
 <p align="center">
@@ -33,11 +33,11 @@ I’m a dedicated and curious technologist with a strong foundation in both **Co
 
 🛠️ **Tech Stack**
 ```bash
-Languages:   Python • JavaScript • C/C++ • Bash
+Languages:   Python • JavaScript • C/C++ • Java • Bash
 Tools:       Git • Wireshark • Nmap • Metasploit • Burp Suite
 Frameworks:  Flask • Express.js • Node.js
 Platforms:   Linux • Windows • VirtualBox • Docker
-<h1 align="center">👋 Hello World, I'm Meng Chun</h1>
+<h1 align="center">👋 Hello World, I'm Chun Meng</h1>
 <h3 align="center">🎓 Bachelor of Information Technology — Specializing in Computer Science & Cybersecurity</h3>
 
 <p align="center">
