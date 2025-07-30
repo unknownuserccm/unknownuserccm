@@ -125,9 +125,8 @@ const chunMeng = {
 expertise = {
     "ai_ml": ["ML", "Threat Detection"],
     "automation": ["Python Scripts", "Security Tools"],
-    "web_security": ["OWASP Top 10", "Secure Coding"],
-    "forensics": ["Memory Analysis", "Network Forensics"],
-    "cloud_security": ["AWS Security", "Container Security"]
+    "web_security": ["Secure Coding"],
+    "forensics": ["Memory Analysis", "Network Forensics"]
 }
 ```
 
@@ -139,28 +138,6 @@ expertise = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/CEH-Certified-00FF00?style=for-the-badge&logo=eccouncil"/>
-<br><sub><b>Certified Ethical Hacker</b></sub>
-</td>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/CISSP-Pursuing-FFD700?style=for-the-badge&logo=isc2"/>
-<br><sub><b>Security Professional</b></sub>
-</td>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/CTF-Player-FF6B6B?style=for-the-badge&logo=hackthebox"/>
-<br><sub><b>Capture The Flag</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -169,7 +146,7 @@ expertise = {
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownuserccm&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
