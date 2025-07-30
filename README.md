@@ -29,7 +29,7 @@ const chunMeng = {
     education: "🎓 B.IT - Computer Science & Cybersecurity",
     
     currentFocus: [
-        "🛡️ Advanced Penetration Testing",
+        "🛡️ Break Build Secure",
         "🤖 AI/ML", 
         "🔍 Digital Forensics & Incident Response",
         "⚡ Secure Software Development"
@@ -38,7 +38,7 @@ const chunMeng = {
     philosophy: "Breaking things ethically to make them stronger 💪",
     
     dailyRoutine: () => {
-        return "Code → Hack → Secure → Repeat 🔄"
+        return "Code → Break → Secure → Repeat 🔄"
     },
     
     lifeGoal: "Making cyberspace safer, one vulnerability at a time 🚀"
