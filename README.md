@@ -109,11 +109,11 @@ const chunMeng = {
 └──╼ $ cat specializations.txt
 
 → Network Security
-→ Ethical Hacking & Red Team Operations  
+→ Ethical Hacking
 → Digital Forensics & Malware Analysis
 → Security Automation & SIEM
 → Vulnerability Assessment & Management
-→ Incident Response & Threat Hunting
+→ Incident Response
 ```
 
 </td>
