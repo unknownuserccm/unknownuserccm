@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello+World%2C+I'm;CHUN+MENG" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cybersecurity%20%26%20CS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
 <div align="center">
   
@@ -16,21 +19,20 @@
 ## <div align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   <b style="color: #00FFFF;">About Me</b>
-  - Profile: https://www.changchunmeng.com/
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-typescript
+```typescript
 const chunMeng = {
     title: "Cybersecurity Enthusiast & Developer",
     location: "🌍 Digital Realm",
     education: "🎓 B.IT - Computer Science & Cybersecurity",
     
     currentFocus: [
-        "🛡️ Break Build Secure",
-        "🤖 AI/ML", 
+        "🛡️ Advanced Penetration Testing",
+        "🤖 AI/ML Security Applications", 
         "🔍 Digital Forensics & Incident Response",
         "⚡ Secure Software Development"
     ],
@@ -38,12 +40,12 @@ const chunMeng = {
     philosophy: "Breaking things ethically to make them stronger 💪",
     
     dailyRoutine: () => {
-        return "Code → Break → Secure → Repeat 🔄"
+        return "Code → Hack → Secure → Repeat 🔄"
     },
     
     lifeGoal: "Making cyberspace safer, one vulnerability at a time 🚀"
 }
-
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -69,7 +71,7 @@ const chunMeng = {
 
 ### 🔧 Development & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim&theme=dark" />
 </p>
 
 </div>
@@ -81,7 +83,7 @@ const chunMeng = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Live Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownuserccm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
 </div>
 
@@ -104,31 +106,32 @@ const chunMeng = {
 <td width="50%" valign="top">
 
 ### 🛡️ Cybersecurity
-bash
+```bash
 ┌─[chunmeng@security]─[~]
 └──╼ $ cat specializations.txt
 
-→ Network Security
-→ Ethical Hacking
+→ Network Security & Penetration Testing
+→ Ethical Hacking & Red Team Operations  
 → Digital Forensics & Malware Analysis
 → Security Automation & SIEM
 → Vulnerability Assessment & Management
-→ Incident Response
-
+→ Incident Response & Threat Hunting
+```
 
 </td>
 <td width="50%" valign="top">
 
 ### 💻 Development
-python
+```python
 # areas_of_expertise.py
 expertise = {
-    "ai_ml": ["ML", "Threat Detection"],
+    "ai_ml": ["Security ML", "Threat Detection"],
     "automation": ["Python Scripts", "Security Tools"],
-    "web_security": ["Secure Coding"],
-    "forensics": ["Memory Analysis", "Network Forensics"]
+    "web_security": ["OWASP Top 10", "Secure Coding"],
+    "forensics": ["Memory Analysis", "Network Forensics"],
+    "cloud_security": ["AWS Security", "Container Security"]
 }
-
+```
 
 </td>
 </tr>
@@ -138,6 +141,28 @@ expertise = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/CEH-Certified-00FF00?style=for-the-badge&logo=eccouncil"/>
+<br><sub><b>Certified Ethical Hacker</b></sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/CISSP-Pursuing-FFD700?style=for-the-badge&logo=isc2"/>
+<br><sub><b>Security Professional</b></sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/CTF-Player-FF6B6B?style=for-the-badge&logo=hackthebox"/>
+<br><sub><b>Capture The Flag</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,11 +171,91 @@ expertise = {
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownuserccm&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Network Scanner Pro](https://github.com/yourusername/network-scanner)
+<a href="https://github.com/yourusername/network-scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+</a>
+
+**Advanced network reconnaissance tool**
+- Multi-threaded port scanning
+- Service fingerprinting
+- Vulnerability detection
+- Custom reporting
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Security Automation Suite](https://github.com/yourusername/security-suite)
+<a href="https://github.com/yourusername/security-suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=security-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+</a>
+
+**Automated security testing framework**
+- Web application security scanner
+- API security testing
+- Automated reporting
+- CI/CD integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI Threat Detector](https://github.com/yourusername/ai-threat-detector)
+<a href="https://github.com/yourusername/ai-threat-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-threat-detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+</a>
+
+**ML-powered threat detection system**
+- Real-time anomaly detection
+- Behavioral analysis
+- Threat classification
+- Alert management
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [Forensics Toolkit](https://github.com/yourusername/forensics-toolkit)
+<a href="https://github.com/yourusername/forensics-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=forensics-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+</a>
+
+**Digital forensics investigation tools**
+- Memory dump analysis
+- File system forensics
+- Network packet analysis
+- Evidence documentation
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -163,9 +268,9 @@ expertise = {
 
 ### 💡 Profile Views & Visitors
 <p>
-  <img src="https://komarev.com/ghpvc/?username=unknownuserccm&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/unknownuserccm?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=0D1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/unknowuserccm?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/yourusername?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Total Stars" />
 </p>
 
 ### ⚡ Recent Activity
@@ -183,13 +288,16 @@ expertise = {
 
 <div align="center">
 
-<a href="mailto:ccmandccs@gmail.com">
+<a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/chang-chun-meng-63935028b/">
+<a href="https://linkedin.com/in/yourusername">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://discord.gg/ccmpc">
+<a href="https://twitter.com/yourusername">  
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://discord.gg/yourusername">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
