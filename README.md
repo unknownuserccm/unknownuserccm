@@ -14,7 +14,7 @@
 
 ## 🛡️ Professional Summary
 
-Dedicated cybersecurity professional with expertise in penetration testing, vulnerability assessment, and secure software development. Currently pursuing advanced knowledge in AI/ML security applications and digital forensics.
+Dedicated cybersecurity professional with expertise in defends and vulnerability assessment. Basic knowlegde knowledge in AI/ML security applications and digital forensics.
 
 <br clear="right"/>
 
@@ -25,17 +25,15 @@ Dedicated cybersecurity professional with expertise in penetration testing, vuln
 <td>
 
 **🔐 Security Analysis**
-- Penetration Testing
+- Basic Penetration Testing
 - Vulnerability Assessments  
-- Digital Forensics
+- Cyber Forensics
 
 </td>
 <td>
 
 **💻 Software Development**
-- Full-stack Development
-- Security-first Approach
-- DevSecOps Integration
+- Full-stack Development 
 
 </td>
 <td>
@@ -43,7 +41,6 @@ Dedicated cybersecurity professional with expertise in penetration testing, vuln
 **🧠 Threat Intelligence**
 - Risk Assessment
 - Incident Response
-- Security Automation
 
 </td>
 </tr>
