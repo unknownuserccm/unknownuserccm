@@ -79,10 +79,7 @@ Dedicated cybersecurity professional with expertise in penetration testing, vuln
 
 ```typescript
 const currentFocus = {
-    penetrationTesting: "Advanced methodologies & automation",
-    aiSecurity: "Machine learning threat detection systems",
-    secureCoding: "Security-first development frameworks",
-    continuousLearning: "CTF competitions & industry certifications"
+    explore the IT realm 
 };
 ```
 
