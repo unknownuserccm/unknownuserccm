@@ -95,13 +95,13 @@ const currentFocus = {
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:ccmandccs@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/changchunmeng">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/unknownuserccm">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
