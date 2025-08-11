@@ -14,7 +14,7 @@
 
 ## 🛡️ Professional Summary
 
-Dedicated cybersecurity professional with expertise in defends and vulnerability assessment. Basic knowlegde knowledge in AI/ML security applications and digital forensics.
+Dedicated cybersecurity professional with expertise in defends and vulnerability assessment. Basic knowledge in AI/ML security applications and digital forensics.
 
 <br clear="right"/>
 
