@@ -30,12 +30,15 @@ Dedicated cybersecurity professional with expertise in defends and vulnerability
 - Basic Penetration Testing
 - Vulnerability Assessments  
 - Cyber Forensics
+- Malware analysis
 
 </td>
 <td>
 
 **💻 Software Development**
 - Full-stack Development 
+- Application Development
+- Basic Malware/ransomware (education purposes)
 
 </td>
 <td>
