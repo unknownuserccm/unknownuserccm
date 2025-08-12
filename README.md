@@ -1,4 +1,4 @@
-# Chun Meng ⚡
+# Chun Meng
 
 <div align="center">
   
