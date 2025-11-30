@@ -4,8 +4,6 @@ I'm a cybersecurity enthusiast and software developer currently studying Compute
 
 **🌐 Website:** [changchunmeng.com](https://changchunmeng.com/)
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## A bit about me
 
 I'm passionate about understanding how systems work—and how they can be broken (ethically, of course!). Whether it's analyzing vulnerabilities, building secure applications, or diving into digital forensics, I'm always learning something new in the security space.
@@ -51,11 +49,6 @@ I'm passionate about understanding how systems work—and how they can be broken
 
 Right now, I'm deep-diving into various areas of IT security, learning by doing, and building projects that challenge me to think like both an attacker and a defender. Always curious about network security, web app vulnerabilities, and how AI is changing the security landscape.
 
-## My GitHub stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownuserccm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
 
 ## Let's connect!
 
