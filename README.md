@@ -6,7 +6,7 @@ I'm a cybersecurity enthusiast and software developer currently studying Compute
 
 ## A bit about me
 
-I'm passionate about understanding how systems work—and how they can be broken (ethically, of course!). Whether it's analyzing vulnerabilities, building secure applications, or diving into digital forensics, I'm always learning something new in the security space.
+I'm passionate about understanding how systems work and how they can be broken (ethically, of course!). Whether it's analyzing vulnerabilities, building secure applications, or diving into digital forensics, I'm always learning something new in the security space.
 
 <br clear="right"/>
 
