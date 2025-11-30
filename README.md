@@ -68,6 +68,3 @@ I'm always open to collaborating on security projects, chatting about the latest
 
 ---
 
-<div align="center">
-  <i>Building a more secure digital future, one commit at a time 🔒</i>
-</div>
