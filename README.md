@@ -1,66 +1,40 @@
-# Chun Meng
+# Hey there! I'm Chun Meng 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional;Software+Developer;IT+Security+Specialist)](https://git.io/typing-svg)
+I'm a cybersecurity enthusiast and software developer currently studying Computer Science & Cybersecurity. I love exploring the IT realm and building things that help protect our digital world.
 
-</div>
-
----
-
-**🎓 Bachelor of Information Technology** - Computer Science & Cybersecurity
-
-About me website : https://changchunmeng.com/
+**🌐 Website:** [changchunmeng.com](https://changchunmeng.com/)
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🛡️ Professional Summary
+## A bit about me
 
-Dedicated cybersecurity professional with expertise in defends and vulnerability assessment. Basic knowledge in AI/ML security applications and digital forensics.
+I'm passionate about understanding how systems work—and how they can be broken (ethically, of course!). Whether it's analyzing vulnerabilities, building secure applications, or diving into digital forensics, I'm always learning something new in the security space.
 
 <br clear="right"/>
 
-## 🎯 Core Competencies
+## What I work with
 
-<table>
-<tr>
-<td>
+**🔐 Security stuff:**
+- Penetration testing and vulnerability assessments
+- Digital forensics and incident response
+- Malware analysis (strictly for educational purposes!)
+- Threat intelligence and risk assessment
 
-**🔐 Security Analysis**
-- Basic Penetration Testing
-- Vulnerability Assessments  
-- Cyber Forensics
-- Malware analysis
+**💻 Development:**
+- Building full-stack applications
+- Writing tools to automate security tasks
+- Creating educational security projects
 
-</td>
-<td>
+## My toolkit
 
-**💻 Software Development**
-- Full-stack Development 
-- Application Development
-- Basic Malware/ransomware (education purposes)
+**Languages I speak (to computers):**
 
-</td>
-<td>
-
-**🧠 Threat Intelligence**
-- Risk Assessment
-- Incident Response
-
-</td>
-</tr>
-</table>
-
-## 🚀 Technical Proficiency
-
-<div align="center">
-
-### Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c,bash,html,css&theme=light" />
 </p>
 
-### Security & Development Tools
+**Tools I use daily:**
+
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
@@ -73,29 +47,21 @@ Dedicated cybersecurity professional with expertise in defends and vulnerability
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=light" />
 </p>
 
-</div>
+## What I'm currently exploring
 
-**🎯 Specializations**: Network Security • Web Application Security • Digital Forensics • Incident Response  
+Right now, I'm deep-diving into various areas of IT security, learning by doing, and building projects that challenge me to think like both an attacker and a defender. Always curious about network security, web app vulnerabilities, and how AI is changing the security landscape.
 
-## 📈 Current Initiatives
-
-```typescript
-const currentFocus = {
-    explore the IT realm 
-};
-```
-
-## 📊 Professional Development
+## My GitHub stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownuserccm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
+## Let's connect!
 
-
-## 📞 Contact Information
+I'm always open to collaborating on security projects, chatting about the latest vulnerabilities, or just geeking out about tech. Feel free to reach out!
 
 <div align="center">
-
 <a href="mailto:ccmandccs@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -105,11 +71,10 @@ const currentFocus = {
 <a href="https://changchunmeng.com">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6C7B7F&center=true&vCenter=true&width=600&lines=Committed+to+advancing+cybersecurity+through+ethical+practices;Building+a+more+secure+digital+future" alt="Footer" />
+  <i>Building a more secure digital future, one commit at a time 🔒</i>
 </div>
